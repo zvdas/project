@@ -11,3 +11,4 @@ Feature 2 changes
 =======
 “new Feature 1 changes”
 >>>>>>> Feature1
+latest hotfix patch
