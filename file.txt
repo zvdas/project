@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Feature 1 changes
+=======
+Feature 2 changes
+>>>>>>> d471c97 (merging into integration branch)
