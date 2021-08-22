@@ -1,5 +1,14 @@
 <<<<<<< HEAD
 Feature 1 changes
+<<<<<<< HEAD
+<<<<<<< HEAD
 =======
 Feature 2 changes
 >>>>>>> d471c97 (merging into integration branch)
+=======
+“new Feature 1 changes”
+>>>>>>> Feature1
+=======
+“new Feature 1 changes”
+>>>>>>> Feature1
+latest hotfix patch
